@@ -27,13 +27,13 @@ function Footer() {
                         <div className="col-lg-4 col-md-6 footer-links">
                                     <h4>Links</h4>
                                     <ul>
-                                        <li><i className="bx bx-chevron-right"></i> <a href="#">L’académie</a></li>
-                                        <li><i className="bx bx-chevron-right"></i> <a href="#">Formations</a></li>
-                                        <li><i className="bx bx-chevron-right"></i> <a href="#">News & Blog</a></li>
-                                        <li><i className="bx bx-chevron-right"></i> <a href="#">Espace Entreprises</a></li>
-                                        <li><i className="bx bx-chevron-right"></i> <a href="#">Contact</a></li>
-                                        <li><i className="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                                        <li><i className="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                                        <li><i className="bx bx-chevron-right"></i> <a href="/#">L’académie</a></li>
+                                        <li><i className="bx bx-chevron-right"></i> <a href="/#">Formations</a></li>
+                                        <li><i className="bx bx-chevron-right"></i> <a href="/#">News & Blog</a></li>
+                                        <li><i className="bx bx-chevron-right"></i> <a href="/#">Espace Entreprises</a></li>
+                                        <li><i className="bx bx-chevron-right"></i> <a href="/#">Contact</a></li>
+                                        <li><i className="bx bx-chevron-right"></i> <a href="/#">Terms of service</a></li>
+                                        <li><i className="bx bx-chevron-right"></i> <a href="/#">Privacy policy</a></li>
                                     </ul>
                         </div>
 
