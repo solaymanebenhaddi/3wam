@@ -22,7 +22,7 @@ function About() {
               <li><i className="bi bi-check-circle"></i>Notre mission est de profiter de l’expansion mondiale du secteur IT pour créer des opportunités socio-économiques</li>
               <li><i className="bi bi-check-circle"></i>plus de compétitivité pour les entreprises IT et plus d’emplois pour les jeunes marocains.</li>
             </ul>
-            <a href="#" className="read-more">Read More <i className="bi bi-long-arrow-right"></i></a>
+            <a href="/#" className="read-more">Read More <i className="bi bi-long-arrow-right"></i></a>
           </div>
         </div>
 
