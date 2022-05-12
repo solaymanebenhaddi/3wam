@@ -19,7 +19,7 @@ function Formations() {
               <div className="icon">
                 <i><ion-icon name="rocket"></ion-icon></i>
               </div>
-              <h4><a href="#">Bootcamp intensif</a></h4>
+              <h4><a href="/#">Bootcamp intensif</a></h4>
               <p>Nos formations spécialisées et de courte durée te permettent d’acquérir les compétences clés pour intégrer le marché en un temps record, en allant droit à l’essentiel</p>
             </div>
           </div>
@@ -30,7 +30,7 @@ function Formations() {
                 
                 <i><ion-icon name="pulse"></ion-icon></i>
               </div>
-              <h4><a href="">90% de pratique</a></h4>
+              <h4><a href="/#">90% de pratique</a></h4>
               <p>Du 1er au dernier jour de formation, tu vas travailler sur des projets réels  afin de construire ton portfolio et prouver aux recruteurs que tu es compétent.</p>
             </div>
           </div>
@@ -41,7 +41,7 @@ function Formations() {
                 
                 <i><ion-icon name="person"></ion-icon></i>
               </div>
-              <h4><a href="#">Formateurs</a></h4>
+              <h4><a href="/#">Formateurs</a></h4>
               <p>Nos formateurs sont des Développeurs Seniors passionnés par le métier et par la transmission des compétences.</p>
             </div>
           </div>
